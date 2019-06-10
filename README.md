@@ -1,5 +1,5 @@
 # Snake
-A little Snake game written in Java
+A little Snake game
 
 ### The Gameplay
 This game can be played in either singleplayer or muliplayer mode
