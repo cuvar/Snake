@@ -2,7 +2,7 @@
 A little Snake game
 
 ### The Gameplay
-This game can be played in either singleplayer or muliplayer mode
+This game can be played in either singleplayer or muliplayer mode.
 
 #### Singleplayer:
 - control with w, a, s and  d keys
